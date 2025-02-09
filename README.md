@@ -58,7 +58,7 @@ Start the Server:
 
 login details:
 
-    username = ashish@rvce.edu.in | password = rvce@1234
+
     username = admin@rvce.edu.in | password = admin@rvce
 
 Note
