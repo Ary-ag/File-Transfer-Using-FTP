@@ -7,6 +7,11 @@ ScreenShots
 
 
 ![339673049-05b3a3d5-6baf-4bb9-ab98-b51cb0faf2ac](https://github.com/user-attachments/assets/b3e112c2-ccb1-448c-a18d-bb554bd3506e)
+![339673133-a845bc84-9b32-4445-8b8e-da859f93e9ea](https://github.com/user-attachments/assets/2de1b3aa-12cf-4606-8fbe-b62386526d86)
+![339673209-0a77de8e-85c8-4c63-b6ae-dcc33aa0a7e2](https://github.com/user-attachments/assets/ac46e704-9157-48e0-b05b-86b4f7728b6a)
+
+
+
 
 📖 Key features
 
